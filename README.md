@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karamouche&label=profile%20views&color=006282&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/Karamouche?tab=followers"><img src="https://img.shields.io/github/followers/Karamouche?label=followers&logo=github&style=for-the-badge&color=006282&logoColor=white" alt="Followers" /></a>
+  <a href="https://github.com/karamouche?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/karamouche?affiliations=OWNER&label=stars&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyLjVsMi45NCA1Ljk2IDYuNTYuOTUtNC43NSA0LjYzIDEuMTIgNi41NEwxMiAxNy41bC01Ljg3IDMuMDggMS4xMi02LjU0TDIuNSA5LjQxbDYuNTYtLjk1eiIvPjwvc3ZnPg%3D%3D&style=for-the-badge&color=006282&labelColor=0B2E3A&logoColor=white" alt="Stars on my repos" /></a>
+  <a href="https://github.com/Karamouche?tab=followers"><img src="https://img.shields.io/github/followers/Karamouche?label=followers&logo=github&style=for-the-badge&color=006282&labelColor=0B2E3A&logoColor=white" alt="Followers" /></a>
   <a href="https://gladia.io"><img src="https://img.shields.io/badge/now-FDE%20%40%20Gladia-006282?style=for-the-badge&labelColor=0B2E3A" alt="Now: FDE at Gladia" /></a>
 </p>
 
